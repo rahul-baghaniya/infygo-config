@@ -1,2 +1,2 @@
-# infygo-config
+# microservices-config
 repostory for storing application properties of all the microservices
